@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">listasFragments</string>
+    <string name="detalles_de_la_bebida">Detalles de la bebida</string>
+    <string name="nombre_agua">agua</string>
+    <string name="nombre_cafe">cafe</string>
+    <string name="detalles_agua">El agua (del latín aqua) es una sustancia cuya molécula está compuesta por dos átomos de hidrógeno y uno de oxígeno (H2O) unidos por un enlace covalente.2​ El término agua, generalmente, se refiere a la sustancia en su estado líquido, aunque esta puede hallarse en su forma sólida, llamada hielo, y en su forma gaseosa, denominada vapor.2​ Es una sustancia bastante común en la Tierra y el sistema solar, donde se encuentra principalmente en forma de vapor o de hielo. Es indispensable para el origen y sustento de la vida.</string>
+    <string name="detalles_cafe">El café es la bebida que se obtiene mediante el percolado de agua caliente a través de los granos tostados y molidos de los frutos de la planta del café (cafeto);1​ es altamente estimulante por su contenido de cafeína,2​ una sustancia psicoactiva.</string>
+</resources>
